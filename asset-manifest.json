@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kandreip/mybudgetmonitor.git/static/css/main.be857391.chunk.css",
-    "main.js": "/kandreip/mybudgetmonitor.git/static/js/main.da6e6f4f.chunk.js",
-    "main.js.map": "/kandreip/mybudgetmonitor.git/static/js/main.da6e6f4f.chunk.js.map",
-    "runtime-main.js": "/kandreip/mybudgetmonitor.git/static/js/runtime-main.cf7ecdb0.js",
-    "runtime-main.js.map": "/kandreip/mybudgetmonitor.git/static/js/runtime-main.cf7ecdb0.js.map",
-    "static/js/2.c7ddddbb.chunk.js": "/kandreip/mybudgetmonitor.git/static/js/2.c7ddddbb.chunk.js",
-    "static/js/2.c7ddddbb.chunk.js.map": "/kandreip/mybudgetmonitor.git/static/js/2.c7ddddbb.chunk.js.map",
-    "index.html": "/kandreip/mybudgetmonitor.git/index.html",
-    "static/css/main.be857391.chunk.css.map": "/kandreip/mybudgetmonitor.git/static/css/main.be857391.chunk.css.map",
-    "static/js/2.c7ddddbb.chunk.js.LICENSE.txt": "/kandreip/mybudgetmonitor.git/static/js/2.c7ddddbb.chunk.js.LICENSE.txt"
+    "main.css": "/mybudgetmonitor/static/css/main.be857391.chunk.css",
+    "main.js": "/mybudgetmonitor/static/js/main.da6e6f4f.chunk.js",
+    "main.js.map": "/mybudgetmonitor/static/js/main.da6e6f4f.chunk.js.map",
+    "runtime-main.js": "/mybudgetmonitor/static/js/runtime-main.fdf12fd9.js",
+    "runtime-main.js.map": "/mybudgetmonitor/static/js/runtime-main.fdf12fd9.js.map",
+    "static/js/2.c7ddddbb.chunk.js": "/mybudgetmonitor/static/js/2.c7ddddbb.chunk.js",
+    "static/js/2.c7ddddbb.chunk.js.map": "/mybudgetmonitor/static/js/2.c7ddddbb.chunk.js.map",
+    "index.html": "/mybudgetmonitor/index.html",
+    "static/css/main.be857391.chunk.css.map": "/mybudgetmonitor/static/css/main.be857391.chunk.css.map",
+    "static/js/2.c7ddddbb.chunk.js.LICENSE.txt": "/mybudgetmonitor/static/js/2.c7ddddbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf7ecdb0.js",
+    "static/js/runtime-main.fdf12fd9.js",
     "static/js/2.c7ddddbb.chunk.js",
     "static/css/main.be857391.chunk.css",
     "static/js/main.da6e6f4f.chunk.js"
