@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mybudgetmonitor/static/css/main.be857391.chunk.css",
-    "main.js": "/mybudgetmonitor/static/js/main.da6e6f4f.chunk.js",
-    "main.js.map": "/mybudgetmonitor/static/js/main.da6e6f4f.chunk.js.map",
+    "main.js": "/mybudgetmonitor/static/js/main.9ecff6a3.chunk.js",
+    "main.js.map": "/mybudgetmonitor/static/js/main.9ecff6a3.chunk.js.map",
     "runtime-main.js": "/mybudgetmonitor/static/js/runtime-main.fdf12fd9.js",
     "runtime-main.js.map": "/mybudgetmonitor/static/js/runtime-main.fdf12fd9.js.map",
     "static/js/2.c7ddddbb.chunk.js": "/mybudgetmonitor/static/js/2.c7ddddbb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fdf12fd9.js",
     "static/js/2.c7ddddbb.chunk.js",
     "static/css/main.be857391.chunk.css",
-    "static/js/main.da6e6f4f.chunk.js"
+    "static/js/main.9ecff6a3.chunk.js"
   ]
 }
